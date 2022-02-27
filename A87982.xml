@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Lord Major, aldermen and Common-Councel of London, to His Excellency Sir Tho: Fairfax. With another letter from His Excellency to the City, in answer to the same. Also two orders and a letter of the General and general Councel of the Army, for the discharging such soldiers the Army, as formerly served in the Kings army : and for the apprehending of others to be tryed by a Councel of War, about the late distractions in the Army. Novem. 25. 1647. Imprimatur Gilbert Mabbot.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87982</idno>
+            <idno type="STC">Wing L1530</idno>
+            <idno type="STC">Thomason E417_3</idno>
+            <idno type="STC">ESTC R204440</idno>
+            <idno type="EEBO-CITATION">99863931</idno>
+            <idno type="PROQUEST">99863931</idno>
+            <idno type="VID">116149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116149)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E417[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Lord Major, aldermen and Common-Councel of London, to His Excellency Sir Tho: Fairfax. With another letter from His Excellency to the City, in answer to the same. Also two orders and a letter of the General and general Councel of the Army, for the discharging such soldiers the Army, as formerly served in the Kings army : and for the apprehending of others to be tryed by a Councel of War, about the late distractions in the Army. Novem. 25. 1647. Imprimatur Gilbert Mabbot.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novem. 27. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  Defenses --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116149:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <p>A LETTER FROM The Lord Major, Aldermen and Com<g ref="char:EOLhyphen"/>mon-Councel of LONDON, To His Excellency Sir Tho: Fairfax.</p>
+            <p>WITH Another LETTER from His Excellency to the City, in Anſwer to the ſame.</p>
+            <p>Alſo two Orders and a Letter of the General and ge<g ref="char:EOLhyphen"/>neral Councel of the Army, For the diſcharging ſuch Soldiers the Army, as formerly ſerved in the KINGS Army:</p>
+            <p>And for the apprehending of others to be tryed by a Councel of WAR, about the late Diſtra<g ref="char:EOLhyphen"/>ctions in the ARMY.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>Novem. 25. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilbert Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Laurence Chapman,</hi> Novem. 27. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116149:2"/>
+            <!-- PDF PAGE 75 -->
+            <pb n="3" facs="tcp:116149:2"/>
+            <!-- PDF PAGE 75 -->
+            <head>To His Excellency, Sir <hi>Tho: Fairfax</hi> Knight, General of the Forces raiſed by the Parlia<g ref="char:EOLhyphen"/>ment of <hi>ENGLAND.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>YOur Letter dated at Kingſton the 19 inſtant, we received this day; and having duly weighed the contents thereof, we cannot but as in the firſt place (with all due thankfulneſs) acknowledge the great favor and reſpect unto this City, for the tenderneſs and care had by your ſelf and the Army, to preſerve it from the leaſt damage or prejudice, and for other favors in the Letter intimated, Do alſo expreſs our hearty ſorrow for your apprehenſion of Juſt Occaſions and great Provocations to have bin given by this city, which might have diverted that your Honorable favor: And that the Arrears to the Army, or any thing elſe from this City, have given occa<g ref="char:EOLhyphen"/>ſion both of the coming and ſtay of the Ar<g ref="char:EOLhyphen"/>my
+<pb n="4" facs="tcp:116149:3"/>
+               <!-- PDF PAGE 76 -->ſo long about the ſame, as to oppreſs theſe parts, if not the undoing of ſome, as is expreſſed in the Letter. And that Colo<g ref="char:EOLhyphen"/>nel <hi>Hewſon</hi> with one thouſand Foot ſhould be appointed to come as upon this day, to quarter in this City, &amp; within the Lines of Communication, in ſuch places as he findes fitteſt, until the ſervice of Collection, and levy both of the Arrears, and penalties im<g ref="char:EOLhyphen"/>poſed by Ordinance of Parliament be ac<g ref="char:EOLhyphen"/>compliſhed; Verily, we cannot but with ſadneſs of heart conſider how this City (which hath always ſhewed it ſelf upon all occaſions to its power, inſtrumental for the preſervation of Parliament and King<g ref="char:EOLhyphen"/>dom) ſhould now without preſident have been diſturbed and diſquieted by the Sol<g ref="char:EOLhyphen"/>diery, and what ill conſequence it might produce to the Parliament, City, King<g ref="char:EOLhyphen"/>dom, and Army it ſelf, if not prevented by the wiſdom of the Parliament and your Excellency, we are not willing to expreſs: It is our humble Deſire, That your Excel<g ref="char:EOLhyphen"/>lency and Councel of War will vouchſafe to take the ſame into due conſideration, as
+<pb n="5" facs="tcp:116149:3"/>
+               <!-- PDF PAGE 76 -->a matter of great concernment; and to be aſſured, That we have not obſtinately withholden what has been due to the Ar<g ref="char:EOLhyphen"/>my, in affront to the Ordinances and De<g ref="char:EOLhyphen"/>mands of Parliament: And we profeſs, That we have done, and ſhall do our beſt indeavors to further the ſpeedy Collecti<g ref="char:EOLhyphen"/>on, and getting in of the Arrears due from particular inhabitants, upon whom the ſame are charged by Ordinance of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>It is alſo our humble Deſire, That your Excellency will be pleaſed to take a view of the Paper incloſed, of ſome apparent obſtructions preſented from us unto the Parliament, touching the not getting in of the Arrears, to the end your Excellency may ſee the readineſs of our indeavors to remove the ſame: Likewiſe, That you will be pleaſed further to conſider of the great ſums of Money (yet unſatisfied) ex<g ref="char:EOLhyphen"/>hauſted from the City by Loans and other<g ref="char:EOLhyphen"/>wiſe, for ſervice of the Parl. and Kingdom; The Free-quarter of the Army upon Citi<g ref="char:EOLhyphen"/>zens, who have dwellings in the countrey;
+<pb n="6" facs="tcp:116149:4"/>
+               <!-- PDF PAGE 77 -->The great and many Taxes upon the City; The great decay generally of Trade within the ſame, and The high prizes of all maner of Victual; All conducing to the impove<g ref="char:EOLhyphen"/>riſhment of the people, and obſtruction to the ready payment of the Aſſeſſments up<g ref="char:EOLhyphen"/>on the City. And for remedy herein, we relie upon your Excellencies goodneſs, That we doing our indeavors in this buſi<g ref="char:EOLhyphen"/>neſs, you will be pleaſed in a ſhort time to remove your Army to a further diſtance from hence.</p>
+            <p>Laſtly, It is our earneſt Deſire (as for<g ref="char:EOLhyphen"/>merly) to manifeſt our Integrity and faith<g ref="char:EOLhyphen"/>fulneſs unto the Parliament and King<g ref="char:EOLhyphen"/>dom, giving to our power all obedience to their Ordinances; and likewiſe to keep and maintain a right underſtanding and good correſpondency between your Excel<g ref="char:EOLhyphen"/>lency, Councel of War, the Army, and this City.</p>
+            <closer>
+               <dateline>London, <date>20 Nov. 1647.</date>
+               </dateline>
+               <signed>By Command of the Major, Alder<g ref="char:EOLhyphen"/>men, and Commons of the City of<hi>LONDON</hi> in Common-Councel aſſembled: MICHEL.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:116149:4"/>
+            <!-- PDF PAGE 77 -->
+            <head>To the Right Honorable, The Lord Major, Aldermen, and Common-Councel men of the City of <hi>London,</hi> in Common-Councel aſſembled.</head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>MY laſt to Your Lordſhip from <hi>King<g ref="char:EOLhyphen"/>ſton,</hi> was not intended to charge you with the Arrears of the City, or to put the levying thereof upon any other, be<g ref="char:EOLhyphen"/>ſides thoſe that are impowered and charged by the Parliament for that purpoſe; But the buſineſs of ſending for their aſsiſtance ſome Soldiers into the City being reſolved on (as the beſt way, and of preſent neceſsity for the timely and effectual diſpatch of that Service) I thought fit by that Letter to acquaint you therewith, both as a reſpect to your Lord<g ref="char:EOLhyphen"/>ſhip and the City, and that by you the City might the better underſtand the Grounds and Intentions of that Reſolution (to pre<g ref="char:EOLhyphen"/>vent any inconveniencies from miſappre<g ref="char:EOLhyphen"/>henſions thereof:) Nor did I expect that ei<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:116149:5"/>
+               <!-- PDF PAGE 78 -->that Reſolution, or the Letter (in ſtead of a vigorous and ſpeedy diſpatch in a buſi<g ref="char:EOLhyphen"/>neſs ſo juſt and neceſſary) ſhould beget any Interpoſals or Intercourſe tending to further Delays: But ſince the Parliament hath thought fit to put a ſtop (for preſent) to that way of Proceeding (which here was concei<g ref="char:EOLhyphen"/>ved moſt neceſſary and agreeable to their Orders) and to undertake ſome other effe<g ref="char:EOLhyphen"/>ctual courſe in the buſineſs, I ſhall wait the hoped iſſue thereof, and of your promiſed concurrent endeavors; Which if it prove not timely anſwerable to their Underta<g ref="char:EOLhyphen"/>kings, to your Profeſsions, and the Armies and Kingdoms Expectations, I much doubt the conſequences (whatever you or I can do to prevent them) will be every way ſad, and that not more to the Parliament, Kingdom or Army, then to the City it ſelf; The ſafety and proſperity of which, ſhall be always endeavored as much as lies in the power of</p>
+            <closer>
+               <dateline>Windſor, <date>24. Nov. 1647.</date>
+               </dateline>
+               <signed>Your faithful Friend and Servant, T: FAIRFAX.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="9" facs="tcp:116149:5"/>
+            <!-- PDF PAGE 78 -->
+            <head>Two Orders of the General and ge<g ref="char:EOLhyphen"/>neral Councel of the ARMY.</head>
+            <p>ACcording to a Reſolution of the general Councel, you are upon the iſſuing forth of this Moneths Pay, to diſmiſs and diſcharge, or cauſe to be diſmiſſed or diſcharged, all ſuch Sol<g ref="char:EOLhyphen"/>diers as have been entertained in the ſeveral Troops of your Regiment, ſince the day that the Army marched through <hi>London;</hi> as alſo all ſuch Soldiers and Officers as have ſerved the King in the late War, and have been entertained in any Troop within your Regiment, ſince the Engagement of the Ar<g ref="char:EOLhyphen"/>my at <hi>Newmarket.</hi> Heath: And you are to return to the Commiſſary of Muſters, a Liſt of the Names of all ſuch perſons in any Troop, as are to be and ſhall be ſo diſcharged as aforeſaid; with a particular Accompt for how much time every one of them, ſince his Entertainment, doth remain unpaid: The chief Officer of each Troop, at the diſcharging of them as aforeſaid, to give a particular Certificate to each of them accordingly: And you are to give order, That from henceforth no new men be en<g ref="char:EOLhyphen"/>tertained in the room of any that ſhall be diſchar<g ref="char:EOLhyphen"/>ged according to this Order, without further Order from my ſelf. You are likewiſe to cauſe Returns to be made from every Troop in your Regiment, of ſuch Subſcriptions as have been taken to what
+<pb n="10" facs="tcp:116149:6"/>
+               <!-- PDF PAGE 79 -->was publiſhed from the General at the late Ren<g ref="char:EOLhyphen"/>dezvouz. You are likewiſe to apprehend in ſafe cuſtody unto the Head-quarter, the Body of of your Regiment, to anſwer to ſuch things as ſhall be objected againſt them before a Councel of War, concerning the late Diſturbances &amp; Diſtractions by them and others wrought or endeavored in the Ar<g ref="char:EOLhyphen"/>my. You are alſo to give ſtrict Order, That no perſon be henceforth permitted to have Quarters with any Troops of your Regiment; who are not actually muſtered within the Army. And you are alſo to give Order, That henceforth no Horſeman take above half a Peck of Provender for a day and night for one Horſe, upon any pretence whatſo<g ref="char:EOLhyphen"/>ever, unleſs he pay for the ſame, until further al<g ref="char:EOLhyphen"/>lowance thereof by Order from my ſelf. And theſe things the Officers of each Troop are to ſee to at their perils, if (contrary hereto) they ſuffer ſuch Abuſes to be henceforth done to the Country.</p>
+            <closer>
+               <dateline>Given under my Hand at <hi>Windſor,</hi> 
+                  <date>this 24. of <hi>Novemb.</hi> 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>To Colonel <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> or the Officer in chief with this Regiment.</trailer>
+         </div>
+         <div type="document">
+            <p>YOu are on ſight hereof forthwith to diſmiſs and diſcharge all ſuch Soldiers as have been entertained by you, or any Officer under your Command, ſince the time that Sir <hi>Hardres Waller</hi> came down to you with Orders from me, <hi>viz.</hi>
+               <pb n="11" facs="tcp:116149:6"/>
+               <!-- PDF PAGE 79 -->ſince the Third of Auguſt laſt, and this you and eve<g ref="char:EOLhyphen"/>ry Officer of the reſpective Companies under your command, are to ſee immediately performed, as you will anſwer the contrary; That the countrey may no longer be burthened with them: And you are to take Order, That from henceforth no more be en<g ref="char:EOLhyphen"/>tertained in the room of any ſuch as ſhall be ſo diſ<g ref="char:EOLhyphen"/>charged without further Orders. You are likewiſe to return a Liſt of the Names of all ſuch as ſhall be ſo diſcharged; And alſo a Liſt of thoſe men that went off with you from the Army, that care may be taken for their Arrears.</p>
+            <closer>
+               <dateline>Given under my Hand at Windſor <date>the 23 day of November, 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>To Col: <hi>Kempſon,</hi> or the Officer in chief with that Regiment.</trailer>
+            <argument>
+               <p>The like Orders were ſent to the Officers in chief with Colonel <hi>Oconellies,</hi> Colonel <hi>Herberts,</hi> and Colonel <hi>Grays</hi> Regiment. And this Letter follow<g ref="char:EOLhyphen"/>ing to the ſeveral Committees of <hi>Wilts, Glouce<g ref="char:EOLhyphen"/>ſter,</hi> and <hi>Oxfordſhire,</hi> where thoſe Regiments quartered.</p>
+            </argument>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:116149:7"/>
+            <!-- PDF PAGE 80 -->
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Am very ſenſible of the burthen that lies upon your countrey, by the quartering of thoſe Soldiers that go out for Ireland; And being deſirous to leſſen it as much as may be, I have ſent an Order to the Officer in chief commanding thoſe Forces quar<g ref="char:EOLhyphen"/>tered in your county, forthwith to diſmiſs and diſcharge all ſuch Soldiers as have been entertained by them or any Officer under them, ſince the third of Auguſt laſt, and that the countrey be no longer burthened with them, but that for the future they do take ſpecial care no more be entertained in the room of any ſuch as ſhall be ſo diſcharged, without further Orders from the Parlia<g ref="char:EOLhyphen"/>ment or my ſelf: And I hope the Officers will be very careful to ſee this Order pun<g ref="char:EOLhyphen"/>ctually obſerved, which I thought fit to give you notice of, to the end the countrey may expect and receive eaſe accordingly. I remain</p>
+            <closer>
+               <dateline>Windſor, <date>23 Nov. 1647.</date>
+               </dateline>
+               <signed>Your aſſured Friend, <hi>T: FAIRFAX.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
